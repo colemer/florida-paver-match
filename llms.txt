@@ -1,0 +1,37 @@
+# Florida Paver Match
+
+> Florida Paver Match is a free referral service that connects Florida homeowners with up to 3 independent local paver installation companies. It is not a contractor and does not perform paver installation work. Content cites Florida statutes, utility water-quality reports and city/county permit offices, and labels national estimates as such.
+
+Last updated: 2026-11-21
+
+## Key facts (sourced on the linked pages)
+- St. Johns County allows pavers in county right-of-way for driveways but not as sidewalks; existing concrete sidewalks cannot be replaced with pavers; driveway connection permit fee $36 (SJC Development Review Manual s. 30).
+- Jacksonville Beach handles paver driveway aprons through a Revocable Encroachment Permit signed by the property owner (City of Jacksonville Beach Public Works).
+- Atlantic Beach requires a building permit for concrete slabs, pavers and patios that increase impervious area (City of Atlantic Beach).
+- Fernandina Beach allows pavers in city right-of-way for driveways and sidewalks if they meet ASTM C902 or C936 (FDOT Section 526), with a notarized contractor certification before final inspection.
+- Angi 2026 national average for a paver driveway: $12,000 (most pay $6,000-$18,000).
+
+## Guides
+- [Paver driveway permits in Northeast Florida: county and city rules (2026)](https://colemer.github.io/florida-paver-match/guides/northeast-florida-paver-driveway-permits/): Right-of-way, encroachment and impervious-surface rules for pavers in St. Johns, Duval beaches, Clay and Fernandina Beach.
+- [How much does a paver driveway cost? (2026 national data)](https://colemer.github.io/florida-paver-match/guides/paver-driveway-cost-florida/): National paver driveway costs from Angi's 2026 data, plus the local permit fees you'll add in Northeast Florida.
+
+## Service areas
+- [Paver Installation in St. Augustine, FL](https://colemer.github.io/florida-paver-match/pavers/st-augustine/): Paver approvals here: inside city limits, permits come from the City of St. Augustine, not the county.
+- [Paver Installation in World Golf Village, FL](https://colemer.github.io/florida-paver-match/pavers/world-golf-village/): Paver approvals here: in unincorporated St. Johns County, pavers are allowed in the county right-of-way for driveways but not as sidewalks, existing concrete sidewalks cannot be removed or replaced with pavers, and the driveway connection permit is $36.
+- [Paver Installation in Jacksonville Beach, FL](https://colemer.github.io/florida-paver-match/pavers/jacksonville-beach/): Paver approvals here: jacksonville Beach handles paver or specialty-concrete driveway aprons through a Revocable Encroachment Permit that only the property owner may sign.
+- [Paver Installation in Atlantic Beach & Neptune Beach, FL](https://colemer.github.io/florida-paver-match/pavers/atlantic-beach-neptune-beach/): Paver approvals here: atlantic Beach requires a building permit for concrete slabs, pavers, patios and other uses that increase impervious area, and for driveways.
+- [Paver Installation in Fleming Island, FL](https://colemer.github.io/florida-paver-match/pavers/fleming-island/): Paver approvals here: clay County requires a driveway permit for any new, replacement, repair or paver upgrade that connects to county right-of-way; listed fees are $175 new, $150 change or upgrade and $75 existing or exemption.
+- [Paver Installation in Orange Park, FL](https://colemer.github.io/florida-paver-match/pavers/orange-park/): Paver approvals here: inside the Town of Orange Park, work in the town right-of-way uses the Streets Division application.
+- [Paver Installation in Fernandina Beach, FL](https://colemer.github.io/florida-paver-match/pavers/fernandina-beach/): Paver approvals here: fernandina Beach allows pavers in city right-of-way for driveways and sidewalks if they meet FDOT Section 526 (ASTM C902 brick or C936 concrete pavers), with a notarized contractor certification before any final inspection.
+
+## Services
+- [Paver Driveways](https://colemer.github.io/florida-paver-match/services/paver-driveways/)
+- [Paver Patios](https://colemer.github.io/florida-paver-match/services/paver-patios/)
+- [Paver Pool Decks](https://colemer.github.io/florida-paver-match/services/pool-decks/)
+- [Paver Repair & Sealing](https://colemer.github.io/florida-paver-match/services/paver-repair-sealing/)
+
+## About
+- [About and how it works](https://colemer.github.io/florida-paver-match/about/)
+- [Partner contractors](https://colemer.github.io/florida-paver-match/partners/)
+- [Privacy](https://colemer.github.io/florida-paver-match/privacy/)
+- [Terms](https://colemer.github.io/florida-paver-match/terms/)

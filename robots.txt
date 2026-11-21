@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /florida-paver-match/thank-you/
+
+Sitemap: https://colemer.github.io/florida-paver-match/sitemap.xml
