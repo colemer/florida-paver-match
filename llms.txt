@@ -10,10 +10,14 @@ Last updated: 2026-11-21
 - Atlantic Beach requires a building permit for concrete slabs, pavers and patios that increase impervious area (City of Atlantic Beach).
 - Fernandina Beach allows pavers in city right-of-way for driveways and sidewalks if they meet ASTM C902 or C936 (FDOT Section 526), with a notarized contractor certification before final inspection.
 - Angi 2026 national average for a paver driveway: $12,000 (most pay $6,000-$18,000).
+- Clearwater has a Right-of-Way Permit - Pavers application (about 7 business days) followed by a separate plan review (City of Clearwater Engineering).
+- Winter Park requires a notarized Agreement for Installation of Non-Standard Driveway Access Apron, recorded with Orange County for $45, for paver aprons in the right-of-way (City of Winter Park).
 
 ## Guides
 - [Paver driveway permits in Northeast Florida: county and city rules (2026)](https://colemer.github.io/florida-paver-match/guides/northeast-florida-paver-driveway-permits/): Right-of-way, encroachment and impervious-surface rules for pavers in St. Johns, Duval beaches, Clay and Fernandina Beach.
 - [How much does a paver driveway cost? (2026 national data)](https://colemer.github.io/florida-paver-match/guides/paver-driveway-cost-florida/): National paver driveway costs from Angi's 2026 data, plus the local permit fees you'll add in Northeast Florida.
+- [Paver driveway permits and costs in Tampa Bay (2026)](https://colemer.github.io/florida-paver-match/guides/tampa-bay-paver-driveway-permits-costs/): What Tampa, St. Petersburg, Clearwater, Largo, Dunedin and Tarpon Springs ask for before a paver driveway, plus 2026 national cost figures.
+- [Paver driveway permits and costs around Orlando (2026)](https://colemer.github.io/florida-paver-match/guides/orlando-area-paver-driveway-permits-costs/): Winter Park, Oviedo, Sanford, Kissimmee, Winter Garden and Lake Mary: right-of-way permits, impervious limits and fees, plus 2026 national costs.
 
 ## Service areas
 - [Paver Installation in St. Augustine, FL](https://colemer.github.io/florida-paver-match/pavers/st-augustine/): Paver approvals here: inside city limits, permits come from the City of St. Augustine, not the county.
