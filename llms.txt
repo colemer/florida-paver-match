@@ -23,6 +23,18 @@ Last updated: 2026-11-21
 - [Paver Installation in Fleming Island, FL](https://colemer.github.io/florida-paver-match/pavers/fleming-island/): Paver approvals here: clay County requires a driveway permit for any new, replacement, repair or paver upgrade that connects to county right-of-way; listed fees are $175 new, $150 change or upgrade and $75 existing or exemption.
 - [Paver Installation in Orange Park, FL](https://colemer.github.io/florida-paver-match/pavers/orange-park/): Paver approvals here: inside the Town of Orange Park, work in the town right-of-way uses the Streets Division application.
 - [Paver Installation in Fernandina Beach, FL](https://colemer.github.io/florida-paver-match/pavers/fernandina-beach/): Paver approvals here: fernandina Beach allows pavers in city right-of-way for driveways and sidewalks if they meet FDOT Section 526 (ASTM C902 brick or C936 concrete pavers), with a notarized contractor certification before any final inspection.
+- [Paver Installation in Tampa, FL](https://colemer.github.io/florida-paver-match/pavers/tampa/): Tampa's driveway review maps nearby trees and may require a paver edge detail.
+- [Paver Installation in St. Petersburg, FL](https://colemer.github.io/florida-paver-match/pavers/st-petersburg/): St. Pete has a Permit Exemption form for qualifying single-family work under $7,500 outside flood hazard areas.
+- [Paver Installation in Clearwater, FL](https://colemer.github.io/florida-paver-match/pavers/clearwater/): Clearwater has a Right-of-Way Permit - Pavers application; driveways and patios also need a building permit.
+- [Paver Installation in Largo, FL](https://colemer.github.io/florida-paver-match/pavers/largo/): Largo's residential driveway permit needs a survey or site plan with dimensions and a material description.
+- [Paver Installation in Dunedin, FL](https://colemer.github.io/florida-paver-match/pavers/dunedin/): Dunedin permit fee: 0.80% of construction value, minimum $60, plus 25% plan review.
+- [Paver Installation in Tarpon Springs, FL](https://colemer.github.io/florida-paver-match/pavers/tarpon-springs/): Pavers in the Tarpon Springs right-of-way need a Right-of-Way Driveway Paver Agreement.
+- [Paver Installation in Winter Park, FL](https://colemer.github.io/florida-paver-match/pavers/winter-park/): Paver aprons in Winter Park's right-of-way need a recorded non-standard driveway agreement ($45 recording fee).
+- [Paver Installation in Oviedo, FL](https://colemer.github.io/florida-paver-match/pavers/oviedo/): Oviedo's Right of Way Type I permit is $79 plus a $25 tech fee and needs a sealed boundary survey.
+- [Paver Installation in Sanford, FL](https://colemer.github.io/florida-paver-match/pavers/sanford/): Sanford charges $40 for a single-family right-of-way driveway; Public Works inspects driveways.
+- [Paver Installation in Kissimmee, FL](https://colemer.github.io/florida-paver-match/pavers/kissimmee/): Kissimmee right-of-way permits start at $25; open cuts in paved streets are $150.
+- [Paver Installation in Winter Garden, FL](https://colemer.github.io/florida-paver-match/pavers/winter-garden/): Winter Garden paver and driveway work needs a Zoning Compliance Review with an ISR worksheet.
+- [Paver Installation in Lake Mary, FL](https://colemer.github.io/florida-paver-match/pavers/lake-mary/): Lake Mary charges $50 for a residential driveway connection outside a building permit.
 
 ## Services
 - [Paver Driveways](https://colemer.github.io/florida-paver-match/services/paver-driveways/)
